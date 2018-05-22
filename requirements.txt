@@ -1,1 +1,4 @@
 Flask==0.12.1
+requests==2.18.4
+facepy==1.0.9
+pyyaml==3.12.0
